@@ -1,0 +1,6 @@
+ofxAssimpModelLoader
+ofxGui
+ofxOpenCv
+ofxPrint
+ofxWonweiOutline
+ofxXmlSettings
